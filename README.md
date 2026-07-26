@@ -9,9 +9,9 @@
 
 # 👩‍💻 About Me
 
-🎓 **B.E Computer Science (AI & ML)** @ Sathyabama Institute of Science and Technology
+ **B.E Computer Science (AI & ML)** @ Sathyabama Institute of Science and Technology
 
-🤖 Passionate about building AI-powered applications using LLMs, RAG, and Agentic AI.
+Passionate about building AI-powered applications using LLMs, RAG, and Agentic AI.
 
 💻 I enjoy creating full-stack AI solutions with React, FastAPI, Docker, and Kubernetes.
 
