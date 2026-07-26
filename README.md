@@ -114,9 +114,6 @@
 
 # 📫 Connect With Me
 
-📧 Email: keer.1705@gmail.com
-
 💼 LinkedIn: https://linkedin.com/in/keerthana-s-988429305
 
-🌍 Chennai, India
 
