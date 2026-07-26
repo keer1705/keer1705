@@ -7,24 +7,6 @@
 
 ---
 
-# 👩‍💻 About Me
-
- **B.E Computer Science (AI & ML)** @ Sathyabama Institute of Science and Technology
-
-Passionate about building AI-powered applications using LLMs, RAG, and Agentic AI.
-
-💻 I enjoy creating full-stack AI solutions with React, FastAPI, Docker, and Kubernetes.
-
-📚 Currently exploring:
-- LangGraph
-- NVIDIA NeMo
-- Advanced RAG
-- AI Agents
-- Agentic AI
-
-🚀 Goal:
-Build intelligent systems that solve real-world problems.
-
 # 💻 Tech Stack
 
 <p align="center">
@@ -127,21 +109,6 @@ Build intelligent systems that solve real-world problems.
 
 </table>
 
-
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=keer1705&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
-</p>
 
 ---
 
